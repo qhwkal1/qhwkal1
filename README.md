@@ -2,7 +2,8 @@
 
 
 
-##  Tech Stack
+## Tech Stack
+
 <br>
 
 ### Frontend
@@ -15,7 +16,7 @@
 
 ### DB
 
-<img src="https://img.shields.io/badge/mySQL-4479A1?style=flat&logo=a&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFA000?style=flat&logo=a&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle SQL-4479A1?style=flat&logo=a&logoColor=white"/>
+![MySQL](https://img.shields.io/badge/mySQL-4479A1?style=flat&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/Firebase-FFA000?style=flat&logo=a&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle SQL-4479A1?style=flat&logo=a&logoColor=white"/>
 
 ### WebServer
 
@@ -42,6 +43,7 @@
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=qhwkal1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhwkal1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
