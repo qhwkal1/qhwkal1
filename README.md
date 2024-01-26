@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JAVA-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+
+
+## GitHub Profile Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=qhwkal1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhwkal1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **qhwkal1/qhwkal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
